@@ -5,7 +5,7 @@ I am Francis, a graduating student at the National University of Singapore.
 - 🔥 I'm passionate about web and cross-platform mobile app development.
 - 🔨 I'm go to programming language is `JavaScript`
 - 📘 I’m currently learning [`React Native`](https://reactnative.dev/).
-- 🌱 I'm interested in learning how to use [`Socket.IO`](https://socket.io/)
+- 🌱 I'm interested to learn how to use [`Socket.IO`](https://socket.io/)
 
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
