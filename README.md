@@ -16,7 +16,7 @@ I am Francis, a graduating student at the National University of Singapore.
 ##
 <h5>Check out my socials</h5>
 
-<em> [<img src="https://github.com/francislow/francislow/blob/master/linkedin_icon.7dfa2db1.png" height="40em" align="center"/>](https://www.linkedin.com/in/francis-low-bb1b4079/)&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/francislow/francislow/master/insta_icon.93339665.png" height="40em" align="center"/>](https://www.instagram.com/friendcislol/)</em>
+<em>[<img src="https://raw.githubusercontent.com/francislow/francislow/master/insta_icon.93339665.png" height="40em" align="center"/>](https://www.instagram.com/friendcislol/)&nbsp;&nbsp;&nbsp;[<img src="https://github.com/francislow/francislow/blob/master/linkedin_icon.7dfa2db1.png" height="40em" align="center"/>](https://www.linkedin.com/in/francis-low-bb1b4079/)</em>
 
 ##
 <h5>Check out my <a href="https://francislow.netlify.app/" target="_blank">website</a></h5>
