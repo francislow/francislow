@@ -3,7 +3,7 @@
 <b>I am Francis, a graduating student at the National University of Singapore.</b>
 <!-- - I’m currently working at Ufinity, Singapore. -->
 - 🔥 I'm passionate about web and cross-platform mobile app development.
-- 🔨 I'm go to programming language is `JavaScript`
+- 🔨 My go to programming language is `JavaScript`
 - 📘 I’m currently learning [`React Native`](https://reactnative.dev/).
 - 🌱 I'm interested to learn how to use [`Socket.IO`](https://socket.io/)
 
