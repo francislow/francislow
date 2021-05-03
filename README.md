@@ -8,7 +8,7 @@ I am Francis, a graduating student at the National University of Singapore.
 - 🌱 I'm interested in learning how to use [`Socket.IO`](https://socket.io/)
 
 ##
-<a href="https://github.com/francislow/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francislow" />
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=francislow&show_icons=true&count_private=true" />
 </a>
