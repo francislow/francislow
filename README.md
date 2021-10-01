@@ -1,6 +1,6 @@
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 
-<b>I am Francis, a graduating student at the National University of Singapore.</b>
+<b>I am Francis, a software engineer at Ufinity.</b>
 <!-- - I’m currently working at Ufinity, Singapore. -->
 - 🔥 I'm passionate about web and cross-platform mobile app development.
 - 🔨 My go to programming language is `JavaScript`
