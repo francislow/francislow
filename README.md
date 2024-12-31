@@ -3,7 +3,7 @@
 <b>I am Francis, a software engineer at Ufinity.</b>
 <!-- - I’m currently working at Ufinity, Singapore. -->
 - 🔥 I'm passionate about web and cross-platform mobile app development.
-- 🔨 My go to programming language is `JavaScript`
+- 🔨 My go to programming language is `TypeScript`
 - 🌱 I'm interested to learn how to use [`Socket.IO`](https://socket.io/)
 
 ##
